@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+}
+
+canvas {
+  background: #eee;
+  display: block;
+  margin: 80px auto;
+  border: 8px solid royalblue;
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  background: rgba(37, 199, 235, 0.659);
+  background: -webkit-linear-gradient(to right, #4194cc, #179bb3);
+  background: linear-gradient(to right, #3565bf, #39778f);
+}
+
+.box {
+  text-align: center;
+  color: white;
+  margin-top: 50px;
+}
+
+h1 {
+  font-family: sans-serif;
+}
